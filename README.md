@@ -4,7 +4,7 @@ Submitted by: **Justin Espinal**
 
 This web app: **This app displays various different pasta recipes for users to search through based on cost and if it's vegan. Users are also able to search for keywords from recipes!**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
